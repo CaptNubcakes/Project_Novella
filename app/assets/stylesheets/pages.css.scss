@@ -1,0 +1,25 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+//Home Page
+//Jumbotron CSS
+.jumbotron {
+    background: url('http://bgfons.com/upload/books_texture3031.jpg') center center no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.jumbotron #title {
+    color :purple;
+    font-family: 'Italianno', cursive;
+    font-size: 8vw 10vh;
+    margin-left: 100px;
+}
+.jumbotron h1 {
+    position: absolute;
+}
+
+//About Page
+.white {
+    color: white;
+}
